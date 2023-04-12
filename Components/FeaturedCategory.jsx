@@ -11,7 +11,7 @@ export default function FeaturedCategory({title,description,category,id}) {
       <AntDesign name='arrowright' size={20} color="green"/>
     </View>
     <Text className="text-xs text-gray-500 px-4" >{description}</Text>
-
+    
     <ScrollView 
     horizontal
     contentContainerStyle={{
