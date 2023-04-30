@@ -25,6 +25,36 @@ export default function FeaturedCategory({title,description,category,id}) {
      long={234}
      lat={231}
     />
+    <RestaurantCard id={id}
+     imgURL="https://images5.alphacoders.com/876/876612.jpg" title="Yo Sushi!" rating={4.5} genre="japanese" address="123 Main St" short_description="This is a test description of this dish" dishes={[]}
+     long={234}
+     lat={231}
+    />
+    <RestaurantCard id={id}
+     imgURL="https://images5.alphacoders.com/876/876612.jpg" title="Yo Sushi!" rating={4.5} genre="japanese" address="123 Main St" short_description="This is a test description of this dish" dishes={[]}
+     long={234}
+     lat={231}
+    />
+    <RestaurantCard id={id}
+     imgURL="https://images5.alphacoders.com/876/876612.jpg" title="Yo Sushi!" rating={4.5} genre="japanese" address="123 Main St" short_description="This is a test description of this dish" dishes={[]}
+     long={234}
+     lat={231}
+    />
+    <RestaurantCard id={id}
+     imgURL="https://images5.alphacoders.com/876/876612.jpg" title="Yo Sushi!" rating={4.5} genre="japanese" address="123 Main St" short_description="This is a test description of this dish" dishes={[]}
+     long={234}
+     lat={231}
+    />
+    <RestaurantCard id={id}
+     imgURL="https://images5.alphacoders.com/876/876612.jpg" title="Yo Sushi!" rating={4.5} genre="japanese" address="123 Main St" short_description="This is a test description of this dish" dishes={[]}
+     long={234}
+     lat={231}
+    />
+    <RestaurantCard id={id}
+     imgURL="https://images5.alphacoders.com/876/876612.jpg" title="Yo Sushi!" rating={4.5} genre="japanese" address="123 Main St" short_description="This is a test description of this dish" dishes={[]}
+     long={234}
+     lat={231}
+    />
     </ScrollView>
    </View>
   )
