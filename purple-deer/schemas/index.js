@@ -1,4 +1,4 @@
 // schemas/index.js
-import pet from './pet'
+import restaurant from './restaurant';
 
-export const schemaTypes = [pet,resturant]
+export const schemaTypes = [restaurant]
